@@ -1,3 +1,3 @@
 # TheLocalMilk.github.io
 
- * [SelvesteGump](Øvehjemmeside/gump)
+ * [SelvesteGump](Øvehjemmeside/index.html)
